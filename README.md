@@ -56,13 +56,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/cr<img width="1366" height="768" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/44d98760-6c21-4d33-8f2b-602421bf09f8" />
 ##Backend
 python main.py file
 url:-http://localhost:5000/api/projects
